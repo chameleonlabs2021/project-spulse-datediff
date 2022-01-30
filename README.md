@@ -14,6 +14,7 @@ Difference between dates in days:
 
 # from the above result minus 1 and copy both the dates and result in this format and update the unittestfile.csv 01/01/2021,03/01/2021,1
 # Once updated execute the unit test script
+
 python3 test_datediff_ver1.2.py
 
 
@@ -35,5 +36,6 @@ python3 test_datediff_ver1.2.py
 14  01/12/2021  04/12/2999          357209      357209     Results are matching
 # For running the original script 
 python3 datediff_v12.py
+
 Enter the start date in dd/mm/yyyy format: 01/12/2021
 Enter the end date in dd/mm/yyyy format: 02/12/2021
